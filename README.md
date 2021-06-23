@@ -5,6 +5,6 @@ Please feel free to help!
 
 # How to build
 Simply run the patch.sh shell script. This is setup to call wine on a linux system which will run the .exe file asm68k.exe.
-You can alternatively patch the rom using dosbox to run the .exe file as well. 
+You can alternatively patch the rom using dosbox to run asm68k.exe file as well. 
 
 
