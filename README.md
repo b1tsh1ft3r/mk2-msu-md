@@ -4,7 +4,7 @@ The additional code adds the aracde music soundtrack via the sega-cd. This is st
 Please feel free to help!
 
 # How to build
-Simply run the patch.sh shell script. This is setup to call wine on a linux system which will run the .exe file asm68k.exe
+Simply run the patch.sh shell script. This is setup to call wine on a linux system which will run the .exe file asm68k.exe.
 You can alternatively patch the rom using dosbox to run the .exe file as well. 
 
 
